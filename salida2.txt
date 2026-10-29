@@ -1,0 +1,5 @@
+Potencias del número: 4 elevado a 1 = 4
+4 elevado a 2 = 16
+4 elevado a 3 = 64
+4 elevado a 4 = 256
+4 elevado a 5 = 1024
